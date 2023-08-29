@@ -1,7 +1,8 @@
-## ElderByte
+## Hello
 
-ElderByte is specialised in highly distributed software systems and cloud. As such, we provide consulting and solution engineering for software projects.
+ElderByte is a Swiss software company that is specialised in highly distributed software systems and cloud ☁️ ⚙️
+We provide consulting, development and solution engineering for software projects
 
-We have identified that long term dependencies on technology stacks and on vendors is the primary issue for companies which want to have a very innovative IT infrastructure. Our solutions are engineered to reduce such dependencies to the minimum. Using innovative, cloud ready system architectures such as Microservices and open technology standards, we effectively avoid lock-ins. This enables our customer to have a highly agile software strategy and gain competitive advantage.
+We have identified that long-term dependencies on tech stacks and vendors often prevent companies from having an innovative IT infrastructure. By using cloud-ready architectures such as microservices and open technology standards, we effectively avoid lock-ins. This enables our customers to pursue a highly agile software strategy and gain a competitive advantage. 🏆🙌
 
-www.elderbyte.com
+🔗 www.elderbyte.com/links
