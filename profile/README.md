@@ -1,4 +1,4 @@
-## Hello
+## Hello there!
 
 ElderByte is a Swiss software company that is specialised in highly distributed software systems and cloud ☁️ ⚙️
 We provide consulting, development and solution engineering for software projects
