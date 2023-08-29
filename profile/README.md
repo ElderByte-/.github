@@ -6,3 +6,7 @@ We provide consulting, development and solution engineering for software project
 We have identified that long-term dependencies on tech stacks and vendors often prevent companies from having an innovative IT infrastructure. By using cloud-ready architectures such as microservices and open technology standards, we effectively avoid lock-ins. This enables our customers to pursue a highly agile software strategy and gain a competitive advantage. 🏆🙌
 
 🔗 www.elderbyte.com/links
+
+
+
+![pic](elderbyte.jpg)
