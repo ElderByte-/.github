@@ -8,4 +8,4 @@ We have identified that long-term dependencies on tech stacks and vendors often 
 🔗 www.elderbyte.com/links
 
 
-<img src="https://github.com/ElderByte-/.github/blob/main/profile/elderbyte.jpg" height="500" >
+<img src="https://github.com/ElderByte-/.github/blob/main/profile/elderbyte_small.png" height="500" >
